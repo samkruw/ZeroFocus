@@ -1,0 +1,6 @@
+{
+  "apiKey": "DEIN_FIREBASE_WEB_API_KEY",
+  "authDomain": "DEIN-PROJEKT.firebaseapp.com",
+  "projectId": "DEIN-PROJEKT",
+  "appId": "DEINE_FIREBASE_APP_ID"
+}
